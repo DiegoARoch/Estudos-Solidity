@@ -7,7 +7,7 @@
 		"abi": [
 			{
 				"inputs": [],
-				"name": "ola",
+				"name": "texto2",
 				"outputs": [
 					{
 						"internalType": "string",
@@ -32,7 +32,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/HelloWorld.sol": "HelloWorld"
+			"contracts/TesteVariavel.sol": "TesteVariavel"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -46,12 +46,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/HelloWorld.sol": {
-			"keccak256": "0x65c529a3f8cf857636cdadaeea38afc4ff79e39f4a3d7564ff39408e0a3141a0",
+		"contracts/TesteVariavel.sol": {
+			"keccak256": "0x7396ce2aeac69925b08073799e6044a75217ee9a2b693eb09c72fb140c1ee362",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://83dfe1ba4ee744bb8adb541c9e1b9588f0b1e5606b43f9247f7d7f6043838720",
-				"dweb:/ipfs/QmcLeVuCG5xYUXgGHfse34kySsooiyE7u5ZLEdkRpXBTaX"
+				"bzz-raw://bd655a077870505057d2d1f7c261a93c65d4cebdb8178901e5ee7084b6f1814e",
+				"dweb:/ipfs/QmP3dSbXbyrvScAyzxwAqUwgZLfR7fkNxo7WJ4shQrwB9E"
 			]
 		}
 	},
