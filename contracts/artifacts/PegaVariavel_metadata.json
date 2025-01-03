@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "numero",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "pegaNumero",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/PegaVariavel.sol": "PegaVariavel"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/PegaVariavel.sol": {
+			"keccak256": "0x8decf9688b313b8ca08a8a2a5cc6fb31e781a23472b8bc62460aa289abb267cb",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://4f6b4e046f926ad5b854f0909402b97a9ac6dd24119ee5c14a4877c7fa866c2d",
+				"dweb:/ipfs/QmZ8yLPD2bkVmTbRFLcztkn8vActfUjMysSFAhPjAbJP8F"
+			]
+		}
+	},
+	"version": 1
+}
