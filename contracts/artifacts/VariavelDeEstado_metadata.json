@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "alteraNumero",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "pegaNumero",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/VariavalDeEstado.sol": "VariavelDeEstado"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/VariavalDeEstado.sol": {
+			"keccak256": "0x6863da9e7a4737efedb081f6daf11c108d9f501ad400871d780763d326f65501",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b3176cba78cfdec1a62f95ed29ac0272bf6e1671e2d0684544c06c1603fec247",
+				"dweb:/ipfs/QmXykWVUrCjSp3d3h4vBv72EvrtSrEQjuktPTuBRnCy37p"
+			]
+		}
+	},
+	"version": 1
+}
