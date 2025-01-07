@@ -10,7 +10,10 @@ contract Transaction {
     }
 
     function incrementa() public returns(int) {
-        contagem = contagem + 1;
+        //Não é possível criar variáveis de estado dentro de funções
+        //variavel local
+        int incrementador = 3;
+        contagem = contagem + incrementador;
         return contagem;
     }
 
