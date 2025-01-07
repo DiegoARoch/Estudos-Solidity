@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "incrementa",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "pegaContagem",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Transaction.sol": "Transaction"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Transaction.sol": {
+			"keccak256": "0x9b2de3d41eb9dc6ead2c16946901b3c00198f1e77d47548d5b7b11b8bc501ee8",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://4acb7d9384e39d74a9895b96aed429ee234d3cecdcfcdd146544c0e9f81de06f",
+				"dweb:/ipfs/QmZbCL9baPRe3DGktaoL6ocpu7Lt3dUSoXM9nuPDVePqct"
+			]
+		}
+	},
+	"version": 1
+}
