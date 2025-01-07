@@ -1,0 +1,73 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "contagem",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "incrementa",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "incrementaExterno",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Visibilidade.sol": "Visibilidade"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Visibilidade.sol": {
+			"keccak256": "0xd0666cc4e85d2991d4cc752d73a2f8c82a60a0cc897e4e0ea0c926a02b7737b7",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://87ef3babf696ae0a0d5886669447c5a0e803eebeb6c78a63ee612397c6ff5779",
+				"dweb:/ipfs/QmQQhbsXqvP7JdeiGh2QZp58vNrgPB1HDWyd7yQN4oJBf4"
+			]
+		}
+	},
+	"version": 1
+}
